@@ -7,7 +7,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
-import static com.N1cohd1.twee.twee.MODID;
+import static com.N1cohd1.twee.Twee.MODID;
 
 public class ModItems {
     public static final DeferredRegister<Item> MOD_ITEMS=DeferredRegister.create(ForgeRegistries.ITEMS,MODID);
